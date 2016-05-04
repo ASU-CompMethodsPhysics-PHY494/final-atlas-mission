@@ -1,0 +1,12 @@
+Contributions
+-------------
+
+"""Bobby Hackett"""
+
+Bobby Hackett's contributions began with the mission proposal (a sneaky way for him to simultaneously satisfy the requirements of final projects in two separate classes). From there, he went on to create a foundation for the code, based on Python `class` objects, something he had no idea how to use. His efforts were ultimately unsuccessful and after very many hours of work, he scrapped it. 
+
+Significant contributions thereafter include: 
+	1) Background research to obtain or calculate necessary values. 
+	2) Helped to design a function for precise timing of the 'launch'. 
+	3) Helped to produce the beautifully designed plots. 
+	4) Wrote both the abstract and this portion of the contributions. 
