@@ -10,3 +10,13 @@ Significant contributions thereafter include:
 	2) Helped to design a function for precise timing of the 'launch'. 
 	3) Helped to produce the beautifully designed plots. 
 	4) Wrote both the abstract and this portion of the contributions. 
+
+"""Alexander Warren"""
+
+Alex Warren contributions included mission course plotting, astrophysical background research, and providing substantial bug fixing, optimization, and testing support throughout the project. 
+
+Specific Contributions:
+	1) Planned mission flight path and implemented necessary functions including delaying launch time and timed course correction.
+	2) Assisted in Velocity Verlet design, implemented correct initial velocity function.
+	2) Researched astrophysical parameters, such as finding the relative positions of each planet on a certain day.
+	2) Critial bug fixing of inital velocities, Titan force function, gravitational force law function etc. 
