@@ -13,10 +13,20 @@ Significant contributions thereafter include:
 
 """Alexander Warren"""
 
-Alex Warren contributions included mission course plotting, astrophysical background research, and providing substantial bug fixing, optimization, and testing support throughout the project. 
+Alex Warren's contributions included mission course plotting, astrophysical background research, and providing substantial bug fixing, optimization, and testing support throughout the project. 
 
 Specific Contributions:
 	1) Planned mission flight path and implemented necessary functions including delaying launch time and timed course correction.
 	2) Assisted in Velocity Verlet design, implemented correct initial velocity function.
-	2) Researched astrophysical parameters, such as finding the relative positions of each planet on a certain day.
-	2) Critial bug fixing of inital velocities, Titan force function, gravitational force law function etc. 
+	3) Researched astrophysical parameters, such as finding the relative positions of each planet on a certain day.
+	4) Critical bug fixing of inital velocities, Titan force function, gravitational force law function etc. 
+
+""" Jordan Pagni """
+
+Jordan Pagni's contributions include building the velocity verlet function that described the motion of the planets, assisted in adding Titan and Atlas to the solar system, and built a rocket using a class/object system but had to be scrapped due to the complexity of implementation
+
+Specifics:
+    1) Helped the research gathering process
+    2) Designed and implemented velocity verlet function
+    3) Assisted in troubleshooting Titan's odd motion
+    4) Worked with groupmates on optimizing Atlas's motion towards Saturn
